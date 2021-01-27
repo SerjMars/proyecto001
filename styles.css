@@ -1,0 +1,22 @@
+.format1{
+    color: red;
+    text-align: center;
+    background-color: lawngreen;
+}
+
+.link{
+    color: orange;
+    background-color: yellow;
+}
+
+.container{
+    border: 1px solid black;
+}
+
+.col{
+    border: 1px solid black;
+}
+
+.logo{
+    height: 75px;
+}
